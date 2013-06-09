@@ -1,0 +1,6 @@
+name: accessloglineparser
+version: 0.0.1
+author: Steffan Mølbæk Andersen
+description: A little tool for breaking up an access log line into part for easy inspection
+dependencies:
+  browser: any
